@@ -8,8 +8,8 @@ first = [
     "alex",
     "andrea",
     "amy",
-    "jane"
-    "amy"
+    "jane",
+    "amy",
     "sarah",
     "sam",
     "smitty",
@@ -27,7 +27,7 @@ last = [
     "abner",
     "abbey",
     "aber",
-    "jawannaman"
+    "jawannaman",
     "solo",
     "sanders",
     "sinker",
