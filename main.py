@@ -7,7 +7,8 @@ first = [
     "adam",
     "alex",
     "andrea",
-    "amy"
+    "amy",
+    "jane"
 ]
 
 last = [
@@ -16,7 +17,8 @@ last = [
     "johanson",
     "abner",
     "abbey",
-    "aber"
+    "aber",
+    "jawannaman"
 ]
 
 name = " ".join([random.choice(first), random.choice(last)])
