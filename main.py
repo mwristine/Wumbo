@@ -7,6 +7,8 @@ first = [
     "adam",
     "alex",
     "andrea",
+    "amy",
+    "jane"
     "amy"
     "sarah",
     "sam",
@@ -21,6 +23,7 @@ last = [
     "abner",
     "abbey",
     "aber",
+    "jawannaman"
     "solo",
     "sanders",
     "sinker",
