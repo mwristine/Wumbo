@@ -3,6 +3,7 @@ import random
 first = [
     "joe",
     "steve",
+    "john",
     "adam",
     "alex",
     "andrea",
@@ -12,6 +13,7 @@ first = [
 last = [
     "jones",
     "smith",
+    "johanson",
     "abner",
     "abbey",
     "aber"
