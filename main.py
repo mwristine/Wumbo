@@ -2,12 +2,19 @@ import random
 
 first = [
     "joe",
-    "steve"
+    "steve",
+    "adam",
+    "alex",
+    "andrea",
+    "amy"
 ]
 
 last = [
     "jones",
-    "smith"
+    "smith",
+    "abner",
+    "abbey",
+    "aber"
 ]
 
 name = " ".join([random.choice(first), random.choice(last)])
