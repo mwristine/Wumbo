@@ -3,6 +3,9 @@ import random
 def random_num():
     return random.randint(0, 10)
 
+def formula(a, b):
+    return (a*a + b*b) / (a*b)
+
 first = [
     "joe",
     "steve",
@@ -54,3 +57,4 @@ last = [
 name = " ".join([random.choice(first), random.choice(last)])
 print(name)
 print(random_num())
+print(formula(random_num(), random_num()))
