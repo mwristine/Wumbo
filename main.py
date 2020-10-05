@@ -1,7 +1,7 @@
 import random
 
 def random_num():
-    return random.randint(0, 10)
+    return random.randint(1, 20)
 
 def formula(a, b):
     return (a*a + b*b) / (a*b)
@@ -55,6 +55,8 @@ last = [
 ]
 
 name = " ".join([random.choice(first), random.choice(last)])
-print(name)
-print(random_num())
-print(formula(random_num(), random_num()))
+print('random name: ' + str(name))
+a = random_num()
+b = random_num()
+print('random numbers: ' + str(a) + ', ' + str(b))
+print('random numbers in formula: ' + str(formula(a, b)))
