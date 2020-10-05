@@ -1,5 +1,8 @@
 import random
 
+def random_num():
+    return random.randint(0, 10)
+
 first = [
     "joe",
     "steve",
@@ -40,3 +43,4 @@ last = [
 
 name = " ".join([random.choice(first), random.choice(last)])
 print(name)
+print(random_num())
